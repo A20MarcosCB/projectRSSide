@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>News about different IDEs</description>
+        <link>https://a20marcoscb.github.io/projectRSSide/</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>a20marcoscb@iessanclemente.net (A20MarcosCB)</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://a20marcoscb.github.io/projectRSSide/eclipse.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on eclipse</description>
+        </item>
+        <item>
+            <title>NetBeans</title>
+            <link>https://a20marcoscb.github.io/projectRSSide/netbeans.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on NetBeans</description>
+        </item>
+    </channel>
+</rss>
